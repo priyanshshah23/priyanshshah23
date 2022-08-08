@@ -12,3 +12,5 @@ I Am Priyansh,
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/priyansh-shah23)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/priyanshshah23)
+
+Gmail:- shahpriyansh91@gmail.com
