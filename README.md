@@ -1,5 +1,6 @@
+Hello there,
 
-Priyansh Shah
+I Am Priyansh,
 
 🔭 I’m currently working on Flutter Project.
 🌱 I’m currently learning Flutter/Dart.
@@ -8,4 +9,5 @@ Priyansh Shah
 📫 How to reach me: Linked In, GMail
 😄 Pronouns: He/His
 
-Linkedin: PriyanshShah GitHub PriyanshShah
+Linkedin: priyansh-shah23 GitHub priyanshshah23
+
