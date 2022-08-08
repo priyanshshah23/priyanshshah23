@@ -11,7 +11,6 @@ I Am Priyansh,
 
 Linkedin: priyansh-shah23 GitHub priyanshshah23
 
-[![Linkedin](https://www.linkedin.com/in/priyansh-shah23) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/priyansh-shah23)
 &nbsp;
-[![GitHub](https://github.com/priyanshshah23) GitHub](https://github.com/)
-
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/priyanshshah23)
