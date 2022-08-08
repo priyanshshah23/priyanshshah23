@@ -13,4 +13,6 @@ I Am Priyansh,
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/priyanshshah23)
 
+Ping me to know more about my projects, which is live in both android as well as ios. The projects are flutter /dart language based.
+
 Gmail:- shahpriyansh91@gmail.com
